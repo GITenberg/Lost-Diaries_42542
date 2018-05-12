@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Baring
 description: Portions of imaginary diaries of Smith Minor, Iseult of Brittany, King
   Corphetua, Froissart, George Washington, and others.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42542#Lost-Diaries
 gutenberg_issued: '2013-04-15'
 gutenberg_type: Text
 identifiers:
