@@ -1,0 +1,41 @@
+_repo: Lost-Diaries_42542
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baring, Maurice
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '937'
+    url: http://www.gutenberg.org/2009/agents/937
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Baring
+description: Portions of imaginary diaries of Smith Minor, Iseult of Brittany, King
+  Corphetua, Froissart, George Washington, and others.
+gutenberg_issued: '2013-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcc 'PR'
+tableOfContents: From the diary of Smith minor -- From the diary of Iseult of Brittany
+  -- From the diary of King Cophetua -- From the diary of Froissart, war correspondent
+  -- From the diary of George Washington -- From the diary of Marcus Aurelius -- From
+  the diary of Mrs James Lee's husband -- From the diary of Sherlock Holmes -- From
+  the diary of the Emperor Titus -- From the diary of Harriet Shelley -- From the
+  journal intime of the Emperor Tiberius  -- From the diary of Oedipus Rex -- From
+  the diary of William the Conqueror -- From the diary of Mary, Mrs John Milton (née
+  Powell) -- From the diary of Mark Antony -- From the diary of Ivan the Terrible
+  -- From the private log of Christopher Columbus -- From the diary of the man in
+  the iron mask -- From the diary of an English governess residing in Paris during
+  the French Revolution -- From the diary of Hamlet, Prince of Denmark, during his
+  stay at England, whither he was sent to study at the University of Oxford, under
+  the special care of Polonius.
+title: Lost Diaries
+url: http://www.gutenberg.org/ebooks/42542
